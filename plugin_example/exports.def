@@ -1,0 +1,4 @@
+LIBRARY	"C98CosmeticOverride"
+EXPORTS
+SKSEPlugin_Version
+SKSEPlugin_Load

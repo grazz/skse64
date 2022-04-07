@@ -1,0 +1,6 @@
+[submodule "skse64"]
+	path = skse64
+	url = git@github.com:grazz/skse64.git
+[submodule "common"]
+	path = common
+	url = git@github.com:grazz/common.git
